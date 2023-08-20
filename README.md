@@ -8,23 +8,19 @@ Este é um jogo da cobrinha (Snake) escrito em Python utilizando a biblioteca Py
 * Se a cobra colidir, pressione a barra de espaço para reiniciar o jogo.
 
 # Como executar
+
 Antes de executar o jogo, você precisará instalar o Pygame:
 
-* Copy code
 * pip install pygame
 
-Em seguida, execute o arquivo snake.py:
+Em seguida, execute o código.
 
-* Copy code
-* python snake.py
+# O jogo:
+o jogo deve abrir uma janela e rodar direto sem interface de inicio.
 
-# Personalização
 
-Você pode personalizar o jogo editando as variáveis no arquivo snake.py. Algumas coisas que você pode alterar incluem:
+![image](https://github.com/ochristopherfilipe/Snake/assets/112826117/cd3f187d-31af-4a9e-a2ad-0af64655a704)
 
-* As dimensões da janela de jogo.
-* A velocidade do jogo.
-* As cores da cobra e da maçã.
 
 # Contribuindo
 Sinta-se à vontade para contribuir com este projeto abrindo uma issue ou um pull request. Qualquer contribuição é bem-vinda!
